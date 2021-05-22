@@ -1,4 +1,4 @@
-# Hey! I'm Ross 🤟🏻, a full-stack developer from Ireland 🇮🇪
+# Hey! I'm Ross 🤟🏻 a full-stack developer from Ireland 🇮🇪
 
 I'm currently looking for a full-time challenge. 
 I work well in teams and I'm definitely a people person.
@@ -26,7 +26,7 @@ I'm mad for music and love making noise with synths and drum machines!
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge"><img alt="express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge"><img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongoDB&logoColor=white&style=for-the-badge"><img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?logoColor=white&style=for-the-badge">
 
 
-### Tech that I've used
+### Tech that I've dabbled in
 
 <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"><img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"><img alt="Koa" src="https://img.shields.io/badge/-Koa-FDFDFD?style=for-the-badge"><img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&logoColor=white&style=for-the-badge"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white&style=for-the-badge"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-FDFDFD?logoColor=black&style=for-the-badge">
 <hr>
