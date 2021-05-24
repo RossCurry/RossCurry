@@ -4,7 +4,7 @@ I'm currently looking for a full-time challenge.
 I work well in teams and I'm definitely a people person.
 When I get stuck on something I keep coming back until I get it.
 
-Before coding I've been in managing roles in bars, restaurants and coffeeshops.
+Before [Codeworks](https://codeworks.me/software-engineering-bootcamp/) I've been in managing roles in bars, restaurants and coffeeshops.
 I'm mad for music and love making noise with synths and drum machines!
 
 
