@@ -11,10 +11,10 @@ I'm mad for music and love making noise with synths and drum machines!
 
 ### At the moment:
 
-* I am currently re-factoring a project from JS to TypeScript.
-* I am also going as indepth as I can with Frontend Masters courses on TypeScript, React, and Angular.
-* For the future, I really want to get a better grasp of accessibility and testing in the web.
-* Organising a project with revamping a friends online shop.
+* I am currently re-factoring a [project](https://github.com/RossCurry/DiMoMe---client) from JS to TypeScript.
+* I am also going as indepth as I can with Frontend Masters courses on [TypeScript](https://frontendmasters.com/courses/typescript-v2/), [React](https://frontendmasters.com/courses/intermediate-react-v3/), and [Angular](https://frontendmasters.com/courses/angular-9/).
+* For the future, I really want to get a better grasp of accessibility and [testing](https://kentcdodds.com/blog/) in the web.
+* Organising a project with revamping a friends [online%20shop](https://www.thisisfaraday.com/).
 
 
 
